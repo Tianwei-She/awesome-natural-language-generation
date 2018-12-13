@@ -1,4 +1,4 @@
-# awesome-natural-language-generation
+# Awesome Natural Language Generation
 A curated list of Natural Language Generation papers, tutorials, and blogs.
 
 ## Introduction
@@ -6,6 +6,7 @@ In the most widely-cited survey of Natural Language Generation methods([Building
 
 ## Table of contents
 - [Blog posts](#blog-posts)
+- [Datasets](#datasets)
 - [Papers](#papers)
     - [Survey papers](#survey-papers)
     - [Modular methods](#modular-methods)
@@ -13,6 +14,13 @@ In the most widely-cited survey of Natural Language Generation methods([Building
 
 ## Blog posts
 * https://ehudreiter.com/
+
+## Datasets
+* RoboCup(2008)
+* WeatherGov(2009)
+* WikiBio(2016)[[Link]](https://github.com/DavidGrangier/wikipedia-biography-dataset)
+* RotoWire & SBNation(2017)[[Link]](https://github.com/harvardnlp/boxscore-data)
+
 
 ## Papers
 ### Survey papers
@@ -39,7 +47,7 @@ In the most widely-cited survey of Natural Language Generation methods([Building
 * [Bootstrapping Generators from Noisy Data](http://aclweb.org/anthology/N18-1137)(NAACL, 2018)
 * [Table-to-Text: Describing Table Region with Natural Language](https://arxiv.org/pdf/1805.11234.pdf)(AAAI, 2018)
 * [Table-to-text Generation by Structure-aware Seq2seq Learning](https://arxiv.org/pdf/1711.09724.pdf)(AAAI, 2018)[[Code]](https://github.com/tyliupku/wiki2bio)
-* [Challenges in Data-to-Document Generation](https://aclweb.org/anthology/D17-1239)(EMNLP, 2017)[[Code]](https://github.com/harvardnlp/data2text)[[Datasets]]( https://github.com/harvardnlp/boxscore-data)
+* [Challenges in Data-to-Document Generation](https://aclweb.org/anthology/D17-1239)(EMNLP, 2017)[[Code]](https://github.com/harvardnlp/data2text)[[Datasets]](https://github.com/harvardnlp/boxscore-data)
 * [Order-Planning Neural Text Generation From Structured Data](https://arxiv.org/pdf/1709.00155.pdf)(2017)[[Code]](https://github.com/akanimax/natural-language-summary-generation-from-structured-data)
 * [Neural Text Generation from Structured Data with Application to the Biography Domain](https://arxiv.org/pdf/1603.07771.pdf)(EMNLP, 2016)[[Dataset]](https://github.com/DavidGrangier/wikipedia-biography-dataset)
 * [What to talk about and how? Selective Generation using LSTMs with Coarse-to-Fine Alignment](http://www.aclweb.org/anthology/N16-1086)(NAACL, 2016)
